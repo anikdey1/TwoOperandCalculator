@@ -1,5 +1,5 @@
 # TwoOperandCalculator
-This Python script renders a calculator using Tkinter. The calculator can perform basic arithmetic operations on two operands.
+This Python script renders a calculator using [Tkinter](https://docs.python.org/3/library/tkinter.html). The calculator can perform basic arithmetic operations on two operands.
 
 ## Motivation
 I used this project to learn the [basics](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) of Tkinter.
